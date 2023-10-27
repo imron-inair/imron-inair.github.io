@@ -1,10 +1,19 @@
 .jumbotron {
   padding-top: 6rem;
   background-image: url(img/strong-fish-HwfqLYhjxhI-unsplash.jpg);
+  font-family: "Times New Roman", Times, serif;
+}
+
+#about {
+  font-family: "Times New Roman", Times, serif;
 }
 
 #projects {
   background-image: url(img/toomas-tartes-Yizrl9N_eDA-unsplash.jpg);
+}
+
+#contact {
+  font-family: "Times New Roman", Times, serif;
 }
 
 section {
